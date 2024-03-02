@@ -1,0 +1,33 @@
+@media only screen and (min-width:998px){
+    .hide-profile {
+      display: none;
+    }
+}
+
+@media (max-width: 767px) {
+  .lldiktifinal {
+    display: none;
+  }
+}
+
+.btn-primary, .bg-primary {
+  background-color: #082A99 !important;
+}
+
+.imgFitur {
+  min-height: 28rem;
+}
+
+.circle-with-text {
+  justify-content: center;
+  align-items: center;
+  border-radius: 100%;
+  text-align: center;
+  display: flex;
+  height: 65px;
+  width: 65px;
+}
+
+.listItem:hover {
+  background-color: #a7a8ac;
+}
